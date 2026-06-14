@@ -1,0 +1,6 @@
+countdown: 30
+
+cloudflare_tunnel: "ID"
+
+docker_projects:
+  - /home/user/site1
